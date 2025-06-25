@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Emile, a Software Engineer at Paris Digital Lab and an MEng student at CentraleSupélec (Paris-Saclay University) 🇫🇷</p>
+<p align="left">I'm Emile, a Software Engineer at Paris Digital Lab and a MEng student at CentraleSupélec (Paris-Saclay University) 🇫🇷</p>
 
 ###
 
