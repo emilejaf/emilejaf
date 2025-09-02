@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Emile, a Quantitative Technologist Intern at Qube Research & Technologies and a MEng student at CentraleSupélec (Paris-Saclay University) 🇫🇷</p>
+<p align="left">I'm Emile, a Quantitative Technologist Intern at QRT and a MEng student at CentraleSupélec (Paris-Saclay University) 🇫🇷</p>
 
 ###
 
