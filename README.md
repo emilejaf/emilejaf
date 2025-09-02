@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Emile, a Software Engineer at Paris Digital Lab and a MEng student at CentraleSupélec (Paris-Saclay University) 🇫🇷</p>
+<p align="left">I'm Emile, a Quantitative Technologist Intern at Qube Research & Technologies and a MEng student at CentraleSupélec (Paris-Saclay University) 🇫🇷</p>
 
 ###
 
@@ -34,7 +34,7 @@
 <h2 align="left">🛠️ Languages & Technologies</h2>
 
 ###
-<img src="https://skillicons.dev/icons?i=ts,rust,go,python,docker,kubernetes,nextjs,tailwind,postgresql" height="50" alt="Technologies" />
+<img src="https://skillicons.dev/icons?i=rust,ts,python,docker,kubernetes,nextjs,tailwind,postgresql" height="50" alt="Technologies" />
 
 
 ###
